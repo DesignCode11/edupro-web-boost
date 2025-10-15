@@ -15,8 +15,8 @@ const GovindNagar = () => {
     established: "2020",
     studentsCount: "200+",
     floorArea: "2500 sq ft",
-    incharge: "Mrs. Priya Sharma",
-    designation: "Branch Manager"
+    incharge: "Mrs. Harshadaa Hiran",
+    designation: "Branch Coordinator"
   };
 
   const features = [
